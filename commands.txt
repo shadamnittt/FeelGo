@@ -1,1 +1,18 @@
 .\venv\Scripts\Activate
+git remote add origin https://github.com/shadamnittt/FeelGo.git
+git branch -M master
+git push -u origin master
+Зайди в Settings → Collaborators
+Добавь девочек по никам GitHub
+
+Совместная работа:
+Каждая участница: git clone https://github.com/shadamnittt/FeelGo.git
+Перед работой: git pull
+После изменений:
+git add .
+git commit -m "Что сделала"
+git push
+
+Работа с requirements txt:
+pip install some-library
+pip freeze > requirements.txt  # чтобы добавить в файл
