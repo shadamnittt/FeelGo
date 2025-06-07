@@ -1,5 +1,246 @@
 [
     {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
         "label": "sys",
         "kind": 6,
         "isExtraImport": true,
@@ -52,12 +293,436 @@
         "documentation": {}
     },
     {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardMarkup",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardButton",
+        "importPath": "telegram",
+        "description": "telegram",
+        "isExtraImport": true,
+        "detail": "telegram",
+        "documentation": {}
+    },
+    {
+        "label": "ApplicationBuilder",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "CommandHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "MessageHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "ContextTypes",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationHandler",
+        "importPath": "telegram.ext",
+        "description": "telegram.ext",
+        "isExtraImport": true,
+        "detail": "telegram.ext",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.07ebd8412e11_initial_migration",
+        "description": "alembic.versions.07ebd8412e11_initial_migration",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.07ebd8412e11_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.07ebd8412e11_initial_migration",
+        "description": "alembic.versions.07ebd8412e11_initial_migration",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.07ebd8412e11_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.1f5c0f68490e_initial_migration",
+        "description": "alembic.versions.1f5c0f68490e_initial_migration",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index('ix_users_email', table_name='users')\n    op.drop_index('ix_users_id', table_name='users')\n    op.drop_table('users')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "alembic.versions.1f5c0f68490e_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.1f5c0f68490e_initial_migration",
+        "description": "alembic.versions.1f5c0f68490e_initial_migration",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('email', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('username', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('hashed_password', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.PrimaryKeyConstraint('id', name='users_pkey'),\n    sa.UniqueConstraint('username', name='users_username_key', postgresql_include=[], postgresql_nulls_not_distinct=False)",
+        "detail": "alembic.versions.1f5c0f68490e_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():\n        context.run_migrations()",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(\n            connection=connection,\n            target_metadata=target_metadata",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "config = context.config\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\ntarget_metadata = Base.metadata  # вот тут должен быть MetaData всех моделей\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata  # вот тут должен быть MetaData всех моделей\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():\n        context.run_migrations()",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(\n            connection=connection,\n            target_metadata=target_metadata",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\ntarget_metadata = Base.metadata  # вот тут должен быть MetaData всех моделей\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_metadata = Base.metadata  # вот тут должен быть MetaData всех моделей\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "FavoritePlace",
+        "kind": 6,
+        "importPath": "models.favorite_place",
+        "description": "models.favorite_place",
+        "peekOfCode": "class FavoritePlace(Base):\n    __tablename__ = \"favorite_places\"\n    id = Column(Integer, primary_key=True, index=True)\n    user_id = Column(Integer, ForeignKey(\"telegram_users.user_id\"))\n    title = Column(String)\n    url = Column(String)\n    user = relationship(\"TelegramUser\", back_populates=\"favorites\")",
+        "detail": "models.favorite_place",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "models.favorite_place",
+        "description": "models.favorite_place",
+        "peekOfCode": "Base = declarative_base()\nclass FavoritePlace(Base):\n    __tablename__ = \"favorite_places\"\n    id = Column(Integer, primary_key=True, index=True)\n    user_id = Column(Integer, ForeignKey(\"telegram_users.user_id\"))\n    title = Column(String)\n    url = Column(String)\n    user = relationship(\"TelegramUser\", back_populates=\"favorites\")",
+        "detail": "models.favorite_place",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "kind": 6,
+        "importPath": "models.user",
+        "description": "models.user",
+        "peekOfCode": "class TelegramUser(Base):\n    __tablename__ = \"telegram_users\"\n    id = Column(Integer, primary_key=True, index=True)\n    user_id = Column(Integer, unique=True, index=True)  # Telegram ID\n    username = Column(String, nullable=True)\n    name = Column(String)\n    favorites = relationship(\"FavoritePlace\", back_populates=\"user\", cascade=\"all, delete-orphan\")",
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "models.user",
+        "description": "models.user",
+        "peekOfCode": "Base = declarative_base()\nclass TelegramUser(Base):\n    __tablename__ = \"telegram_users\"\n    id = Column(Integer, primary_key=True, index=True)\n    user_id = Column(Integer, unique=True, index=True)  # Telegram ID\n    username = Column(String, nullable=True)\n    name = Column(String)\n    favorites = relationship(\"FavoritePlace\", back_populates=\"user\", cascade=\"all, delete-orphan\")",
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
         "label": "main",
         "kind": 2,
         "importPath": "venv.Scripts.jp",
         "description": "venv.Scripts.jp",
         "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
         "detail": "venv.Scripts.jp",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "DATABASE_URL = \"postgresql+asyncpg://postgres:123Wayther@localhost:5432/feelgo\"\nengine = create_async_engine(DATABASE_URL, echo=True)\nasync_session = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "engine = create_async_engine(DATABASE_URL, echo=True)\nasync_session = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "async_session = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SearchRequest",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class SearchRequest(BaseModel):\n    user_id: int\n    mood: str\n    budget: str\n    lat: float\n    lon: float\nclass Place(BaseModel):\n    title: str\n    url: str\nclass SearchResponse(BaseModel):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "Place",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class Place(BaseModel):\n    title: str\n    url: str\nclass SearchResponse(BaseModel):\n    results: List[Place]\nmoods = {\n    \"😔 Грусть\": \"Вот уютные места, где можно немного отвлечься и отдохнуть.\",\n    \"😍 Радость\": \"Вот места, где ты сможешь зарядиться ещё больше!\",\n    \"😠 Злость\": \"Вот активности, чтобы выпустить пар и отвлечься.\",\n    \"🙂 Спокойствие\": \"Вот приятные и нейтральные локации для отдыха.\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "SearchResponse",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class SearchResponse(BaseModel):\n    results: List[Place]\nmoods = {\n    \"😔 Грусть\": \"Вот уютные места, где можно немного отвлечься и отдохнуть.\",\n    \"😍 Радость\": \"Вот места, где ты сможешь зарядиться ещё больше!\",\n    \"😠 Злость\": \"Вот активности, чтобы выпустить пар и отвлечься.\",\n    \"🙂 Спокойствие\": \"Вот приятные и нейтральные локации для отдыха.\",\n    \"🤯 Усталость\": \"Вот места, где можно перезагрузиться и восстановиться.\",\n    \"🤩 Вдохновение\": \"Вот креативные пространства, чтобы зарядиться идеями.\"\n}",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "start_bot",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def start_bot():\n    TOKEN = \"YOUR_BOT_TOKEN_HERE\"\n    application = ApplicationBuilder().token(TOKEN).build()\n    conv_handler = ConversationHandler(\n        entry_points=[CommandHandler(\"start\", start)],\n        states={\n            ASK_NAME: [MessageHandler(filters.TEXT & ~filters.COMMAND, ask_mood)],\n            ASK_MOOD: [MessageHandler(filters.TEXT & ~filters.COMMAND, ask_budget)],\n            ASK_BUDGET: [MessageHandler(filters.TEXT & ~filters.COMMAND, ask_location)],\n            ASK_LOCATION: [MessageHandler(filters.LOCATION, handle_location)],",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "run_fastapi",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def run_fastapi():\n    import uvicorn\n    uvicorn.run(app, host=\"0.0.0.0\", port=8000)\nif __name__ == \"__main__\":\n    threading.Thread(target=run_fastapi, daemon=True).start()\n    start_bot()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\nclass SearchRequest(BaseModel):\n    user_id: int\n    mood: str\n    budget: str\n    lat: float\n    lon: float\nclass Place(BaseModel):\n    title: str\n    url: str",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "moods",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "moods = {\n    \"😔 Грусть\": \"Вот уютные места, где можно немного отвлечься и отдохнуть.\",\n    \"😍 Радость\": \"Вот места, где ты сможешь зарядиться ещё больше!\",\n    \"😠 Злость\": \"Вот активности, чтобы выпустить пар и отвлечься.\",\n    \"🙂 Спокойствие\": \"Вот приятные и нейтральные локации для отдыха.\",\n    \"🤯 Усталость\": \"Вот места, где можно перезагрузиться и восстановиться.\",\n    \"🤩 Вдохновение\": \"Вот креативные пространства, чтобы зарядиться идеями.\"\n}\nbudgets = {\n    \"💸 Эконом\": \"Бюджетный вариант.\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "budgets",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "budgets = {\n    \"💸 Эконом\": \"Бюджетный вариант.\",\n    \"💰 Средний\": \"Хороший баланс между ценой и атмосферой.\",\n    \"💎 Премиум\": \"Премиальные впечатления ждут тебя!\"\n}\n@app.post(\"/search\", response_model=SearchResponse)\nasync def search_places(request: SearchRequest):\n    overpass_url = \"https://overpass-api.de/api/interpreter\"\n    overpass_query = f\"\"\"\n    [out:json];",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "user_data_store",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "user_data_store = {}\nmain_menu_keyboard = ReplyKeyboardMarkup(\n    [[\"🎯 Новая подборка\", \"⭐ Избранное\"]], resize_keyboard=True\n)\nasync def start(update: Update, context: ContextTypes.DEFAULT_TYPE):\n    await update.message.reply_text(\"Привет! Я FeelGo — твой навигатор по настроению и местам 🌟\\nКак тебя зовут?\")\n    return ASK_NAME\nasync def ask_mood(update: Update, context: ContextTypes.DEFAULT_TYPE):\n    user_id = update.effective_user.id\n    username = update.effective_user.username",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "main_menu_keyboard",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "main_menu_keyboard = ReplyKeyboardMarkup(\n    [[\"🎯 Новая подборка\", \"⭐ Избранное\"]], resize_keyboard=True\n)\nasync def start(update: Update, context: ContextTypes.DEFAULT_TYPE):\n    await update.message.reply_text(\"Привет! Я FeelGo — твой навигатор по настроению и местам 🌟\\nКак тебя зовут?\")\n    return ASK_NAME\nasync def ask_mood(update: Update, context: ContextTypes.DEFAULT_TYPE):\n    user_id = update.effective_user.id\n    username = update.effective_user.username\n    name = update.message.text",
+        "detail": "main",
         "documentation": {}
     }
 ]
