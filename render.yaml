@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: feelgo-bot
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python main.py
+    envVars:
+      - key: TELEGRAM_API_TOKEN
+        value: 7800040116:AAGpWmzJoP79h2hA5q7VQNmDiI2jJCagKM8
